@@ -1,2 +1,1 @@
-# tests
-for test
+FROM busybox
